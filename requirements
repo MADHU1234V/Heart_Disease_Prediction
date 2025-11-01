@@ -1,0 +1,8 @@
+## Requirements
+- Python 
+- Jupyter Notebook
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
